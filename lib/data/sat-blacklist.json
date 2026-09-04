@@ -1,0 +1,58 @@
+[
+  {
+    "rfc": "GOC9303256A2",
+    "nombre": "GRUPO COMERCIALIZADOR DEL CENTRO SA DE CV",
+    "situacion": "Definitivo",
+    "numeroOficio": "500-05-2023-1452",
+    "fechaPublicacionDof": "2023-04-14"
+  },
+  {
+    "rfc": "ASO140212TT1",
+    "nombre": "ASESORES INTEGRALES DE OCCIDENTE SA DE CV",
+    "situacion": "Definitivo",
+    "numeroOficio": "500-05-2022-9841",
+    "fechaPublicacionDof": "2022-11-20"
+  },
+  {
+    "rfc": "CME1509188K9",
+    "nombre": "CONSTRUCCIONES Y MONTAJES DEL SURESTE SA DE CV",
+    "situacion": "Presunto",
+    "numeroOficio": "500-05-2024-0312",
+    "fechaPublicacionDof": "2024-01-25"
+  },
+  {
+    "rfc": "STR180423MN4",
+    "nombre": "SERVICIOS TECNOLOGICOS RAPIDOS SA DE CV",
+    "situacion": "Presunto",
+    "numeroOficio": "500-05-2024-1189",
+    "fechaPublicacionDof": "2024-06-12"
+  },
+  {
+    "rfc": "LOG120516AA1",
+    "nombre": "LOGISTICA Y OPERACIONES GLOBALES SA DE CV",
+    "situacion": "Desvirtuado",
+    "numeroOficio": "500-05-2023-4521",
+    "fechaPublicacionDof": "2023-08-30"
+  },
+  {
+    "rfc": "FAC101010EF0",
+    "nombre": "FACTURACION SIMULADA SA DE CV",
+    "situacion": "Definitivo",
+    "numeroOficio": "500-05-2021-0001",
+    "fechaPublicacionDof": "2021-02-15"
+  },
+  {
+    "rfc": "CON190805XYZ",
+    "nombre": "CONSULTORES FANTASMA DEL NORTE SA DE CV",
+    "situacion": "Definitivo",
+    "numeroOficio": "500-05-2023-8899",
+    "fechaPublicacionDof": "2023-10-05"
+  },
+  {
+    "rfc": "DUM010101EFO",
+    "nombre": "EMPRESA FACTURADORA DEMO SAT SA DE CV",
+    "situacion": "Definitivo",
+    "numeroOficio": "500-05-DEMO-2025",
+    "fechaPublicacionDof": "2025-01-10"
+  }
+]
