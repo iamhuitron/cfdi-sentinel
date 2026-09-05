@@ -3,6 +3,11 @@
 **Auditor Fiscal Digital y Conciliador de Facturas CFDI 4.0 / 3.3 en el Navegador**  
 *100% Client-Side · Detección de Listas Negras SAT (Art. 69-B) · Precarga DIOT · Exportación Contable a Excel*
 
+
+> 💡 **Ecosistema Fiscal — ¿Buscas el motor en Python o CLI para servidores y ERPs?**  
+> Conoce **[CFDI SAT Engine](https://github.com/iamhuitron/cfdi-sat-engine)**: El motor complementario de línea de comandos en Python 3.10+ (cero dependencias externas) diseñado para auditorías batch masivas de miles de XMLs en procesos desatendidos, tareas cron y pipelines backend.
+
+
 ---
 
 ## 📌 ¿Qué es CFDI Sentinel?
