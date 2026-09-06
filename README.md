@@ -1,8 +1,18 @@
-# 🛡️ CFDI Sentinel
+# CFDI Sentinel
 
-**Auditor Fiscal Digital y Conciliador de Facturas CFDI 4.0 / 3.3 en el Navegador**  
-*100% Client-Side · Detección de Listas Negras SAT (Art. 69-B) · Precarga DIOT · Exportación Contable a Excel*
+<p align="left">
+  <strong>Auditor Fiscal Digital y Conciliador de Facturas CFDI 4.0 / 3.3 en el Navegador</strong><br>
+  Open-Source Client-Side System by <a href="https://github.com/iamhuitron"><strong>Ian Miguel Delgado Huitrón</strong></a> · Co-Founder at <a href="https://github.com/Xaol-Studio"><strong>@Xaol-Studio</strong></a>
+</p>
 
+<p align="left">
+  <a href="https://xaol-website.vercel.app/demo/sat-sentinel.html"><img src="https://img.shields.io/badge/Live_Demo-xaol--website.vercel.app-059669?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+  <a href="https://github.com/iamhuitron"><img src="https://img.shields.io/badge/Author-@iamhuitron-1e293b?style=flat-square&logo=github&logoColor=white" alt="Author" /></a>
+  <a href="https://github.com/Xaol-Studio"><img src="https://img.shields.io/badge/Studio-@Xaol--Studio-059669?style=flat-square&logo=github&logoColor=white" alt="Studio" /></a>
+  <img src="https://img.shields.io/badge/Privacy-100%25%20Client--Side%20In--Memory-blue?style=flat-square" alt="Privacy" />
+  <img src="https://img.shields.io/badge/SAT-CFDI%204.0%20%2F%20Art.%2069--B-orange?style=flat-square" alt="SAT" />
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-emerald?style=flat-square" alt="License" /></a>
+</p>
 
 > 💡 **Ecosistema Fiscal — ¿Buscas el motor en Python o CLI para servidores y ERPs?**  
 > Conoce **[CFDI SAT Engine](https://github.com/iamhuitron/cfdi-sat-engine)**: El motor complementario de línea de comandos en Python 3.10+ (cero dependencias externas) diseñado para auditorías batch masivas de miles de XMLs en procesos desatendidos, tareas cron y pipelines backend.
