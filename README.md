@@ -6,12 +6,16 @@
 </p>
 
 <p align="left">
-  <a href="https://xaol-website.vercel.app/demo/sat-sentinel.html"><img src="https://img.shields.io/badge/Live_Demo-xaol--website.vercel.app-059669?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
-  <a href="https://github.com/iamhuitron"><img src="https://img.shields.io/badge/Author-@iamhuitron-1e293b?style=flat-square&logo=github&logoColor=white" alt="Author" /></a>
-  <a href="https://github.com/Xaol-Studio"><img src="https://img.shields.io/badge/Studio-@Xaol--Studio-059669?style=flat-square&logo=github&logoColor=white" alt="Studio" /></a>
-  <img src="https://img.shields.io/badge/Privacy-100%25%20Client--Side%20In--Memory-blue?style=flat-square" alt="Privacy" />
-  <img src="https://img.shields.io/badge/SAT-CFDI%204.0%20%2F%20Art.%2069--B-orange?style=flat-square" alt="SAT" />
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-emerald?style=flat-square" alt="License" /></a>
+  <a href="https://xaol-website.vercel.app/demo/sat-sentinel.html"><img src="https://img.shields.io/badge/LIVE_DEMO-xaol--website.vercel.app-B89758?style=for-the-badge&logo=vercel&logoColor=FAF8F5&labelColor=141210" alt="Live Demo" /></a>
+  <a href="https://github.com/iamhuitron"><img src="https://img.shields.io/badge/AUTHOR-@iamhuitron-1D1A16?style=for-the-badge&logo=github&logoColor=D4B87A&labelColor=141210" alt="Author" /></a>
+  <a href="https://github.com/Xaol-Studio"><img src="https://img.shields.io/badge/STUDIO-@Xaol--Studio-1D1A16?style=for-the-badge&logo=github&logoColor=D4B87A&labelColor=141210" alt="Studio" /></a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Privacy-100%25_Client--Side_In--Memory-1B3B2B?style=flat-square&labelColor=141210&logoColor=D4B87A" alt="Privacy" />
+  <img src="https://img.shields.io/badge/SAT-CFDI_4.0_%2F_Art._69--B-611624?style=flat-square&labelColor=141210&logoColor=FAF8F5" alt="SAT" />
+  <img src="https://img.shields.io/badge/Tests-Vitest_Passing-1B3B2B?style=flat-square&logo=vitest&logoColor=D4B87A&labelColor=141210" alt="Tests" />
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-1D1A16?style=flat-square&labelColor=141210&logoColor=D4B87A" alt="License" /></a>
 </p>
 
 > 💡 **Ecosistema Fiscal — ¿Buscas el motor en Python o CLI para servidores y ERPs?**  
@@ -26,6 +30,15 @@
 
 > **Garantía de Privacidad Absoluta:**  
 > A diferencia de los sistemas contables tradicionales en la nube donde subes tus secretos financieros a servidores de terceros, CFDI Sentinel procesa, descomprime y audita tus archivos **100% en la memoria de tu navegador**. Ningún archivo, RFC o monto sale de tu dispositivo.
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#141210', 'primaryTextColor': '#FAF8F5', 'primaryBorderColor': '#B89758', 'lineColor': '#B89758', 'secondaryColor': '#1D1A16', 'tertiaryColor': '#0D0C0A', 'mainBkg': '#141210', 'nodeBorder': '#B89758', 'clusterBkg': '#0D0C0A', 'clusterBorder': '#262420', 'titleColor': '#D4B87A', 'edgeLabelBackground': '#141210', 'fontFamily': 'JetBrains Mono, Plus Jakarta Sans, sans-serif' }}}%%
+flowchart LR
+    A["Dropzone (.xml / .zip)"] -->|JSZip + fast-xml-parser| B["In-Memory CFDI Normalizer<br/>(Zero Network I/O)"]
+    B --> C["Audit & Risk Engine<br/>Anexo 20 · O(1) Art. 69-B · 72h PAC"]
+    C --> D["Tax & DIOT Aggregator<br/>IVA Acreditable / Trasladado / ISR"]
+    D --> E["Multi-Tab SheetJS Export<br/>(.xlsx Executive Workbook)"]
+```
 
 ---
 
